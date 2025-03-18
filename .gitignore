@@ -1,0 +1,6 @@
+# Exclude the .env file (contains sensitive information)
+.env
+
+# Exclude Python virtual environment
+venv/
+
