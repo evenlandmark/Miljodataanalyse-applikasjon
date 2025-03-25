@@ -1,0 +1,30 @@
+# Grunnleggende datahåndtering og analyse
+pandas
+numpy
+dotenv
+
+# Filhåndtering og datainnhenting
+requests  
+sqlalchemy  
+pandasql  
+ 
+# Visualisering
+matplotlib
+seaborn
+plotly  
+bokeh   
+openpyxl  
+
+# Statistikk og analyse
+scipy   
+statsmodels  
+
+# Maskinlæring og prediktiv analyse
+scikit-learn  
+
+# Jupyter Notebook og interaktivitet
+jupyter
+ipywidgets  
+
+# Andre nyttige verktøy
+tqdm  
