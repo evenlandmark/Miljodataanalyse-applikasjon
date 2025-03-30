@@ -284,7 +284,7 @@ Oslo,SN18700,2022-04-04,mean,wind_speed P1D,4.0,m/s,God
 Oslo,SN18700,2022-04-05,mean,air_temperature P1D,1.3,degC,God
 Oslo,SN18700,2022-04-05,sum,precipitation_amount P1D,3.5,mm,God
 Oslo,SN18700,2022-04-05,mean,wind_speed P1D,2.6,m/s,God
-Oslo,SN18700,2022-04-06,mean,air_temperature P1D,0.8,degC,
+Oslo,SN18700,2022-04-06,mean,air_temperature P1D,0.8,degC,God
 Oslo,SN18700,2022-04-06,sum,precipitation_amount P1D,0.0,mm,God
 Oslo,SN18700,2022-04-06,mean,wind_speed P1D,1.7,m/s,God
 Oslo,SN18700,2022-04-07,mean,air_temperature P1D,1.8,degC,God
@@ -317,7 +317,7 @@ Oslo,SN18700,2022-04-15,mean,wind_speed P1D,2.0,m/s,God
 Oslo,SN18700,2022-04-16,mean,air_temperature P1D,7.1,degC,God
 Oslo,SN18700,2022-04-16,sum,precipitation_amount P1D,0.0,mm,God
 Oslo,SN18700,2022-04-16,mean,wind_speed P1D,2.0,m/s,God
-Oslo,SN18700,2022-04-17,mean,air_temperature P1D,6.3,degC,
+Oslo,SN18700,2022-04-17,mean,air_temperature P1D,6.3,degC,God
 Oslo,SN18700,2022-04-17,sum,precipitation_amount P1D,0.0,mm,God
 Oslo,SN18700,2022-04-17,mean,wind_speed P1D,1.9,m/s,God
 Oslo,SN18700,2022-04-18,mean,air_temperature P1D,6.6,degC,God
@@ -1278,7 +1278,7 @@ Bergen,SN50540,2022-03-02,mean,air_temperature P1D,5.9,degC,God
 Bergen,SN50540,2022-03-02,sum,precipitation_amount P1D,2.6,mm,God
 Bergen,SN50540,2022-03-02,mean,wind_speed P1D,1.8,m/s,God
 Bergen,SN50540,2022-03-03,mean,air_temperature P1D,4.5,degC,God
-Bergen,SN50540,2022-03-03,sum,precipitation_amount P1D,0.6,mm,
+Bergen,SN50540,2022-03-03,sum,precipitation_amount P1D,0.6,mm,God
 Bergen,SN50540,2022-03-03,mean,wind_speed P1D,2.5,m/s,God
 Bergen,SN50540,2022-03-04,mean,air_temperature P1D,4.2,degC,God
 Bergen,SN50540,2022-03-04,sum,precipitation_amount P1D,0.0,mm,God
@@ -1379,7 +1379,7 @@ Bergen,SN50540,2022-04-04,mean,wind_speed P1D,5.8,m/s,God
 Bergen,SN50540,2022-04-05,mean,air_temperature P1D,2.8,degC,God
 Bergen,SN50540,2022-04-05,sum,precipitation_amount P1D,9.9,mm,God
 Bergen,SN50540,2022-04-05,mean,wind_speed P1D,3.0,m/s,God
-Bergen,SN50540,2022-04-06,mean,air_temperature P1D,2.8,degC,
+Bergen,SN50540,2022-04-06,mean,air_temperature P1D,2.8,degC,God
 Bergen,SN50540,2022-04-06,sum,precipitation_amount P1D,0.0,mm,God
 Bergen,SN50540,2022-04-06,mean,wind_speed P1D,1.6,m/s,God
 Bergen,SN50540,2022-04-07,mean,air_temperature P1D,3.1,degC,God
@@ -1412,7 +1412,7 @@ Bergen,SN50540,2022-04-15,mean,wind_speed P1D,2.3,m/s,God
 Bergen,SN50540,2022-04-16,mean,air_temperature P1D,6.6,degC,God
 Bergen,SN50540,2022-04-16,sum,precipitation_amount P1D,0.0,mm,God
 Bergen,SN50540,2022-04-16,mean,wind_speed P1D,3.0,m/s,God
-Bergen,SN50540,2022-04-17,mean,air_temperature P1D,9.6,degC,
+Bergen,SN50540,2022-04-17,mean,air_temperature P1D,9.6,degC,God
 Bergen,SN50540,2022-04-17,sum,precipitation_amount P1D,0.1,mm,God
 Bergen,SN50540,2022-04-17,mean,wind_speed P1D,3.7,m/s,God
 Bergen,SN50540,2022-04-18,mean,air_temperature P1D,10.6,degC,God
@@ -1428,16 +1428,16 @@ Bergen,SN50540,2022-04-21,mean,air_temperature P1D,13.8,degC,God
 Bergen,SN50540,2022-04-21,sum,precipitation_amount P1D,0.0,mm,God
 Bergen,SN50540,2022-04-21,mean,wind_speed P1D,2.6,m/s,God
 Bergen,SN50540,2022-04-22,mean,air_temperature P1D,14.4,degC,God
-Bergen,SN50540,2022-04-22,sum,precipitation_amount P1D,0.0,mm,
+Bergen,SN50540,2022-04-22,sum,precipitation_amount P1D,0.0,mm,God
 Bergen,SN50540,2022-04-22,mean,wind_speed P1D,2.0,m/s,God
 Bergen,SN50540,2022-04-23,mean,air_temperature P1D,13.1,degC,God
 Bergen,SN50540,2022-04-23,sum,precipitation_amount P1D,0.0,mm,God
 Bergen,SN50540,2022-04-23,mean,wind_speed P1D,1.9,m/s,God
 Bergen,SN50540,2022-04-24,mean,air_temperature P1D,10.9,degC,God
-Bergen,SN50540,2022-04-24,sum,precipitation_amount P1D,0.0,mm,
+Bergen,SN50540,2022-04-24,sum,precipitation_amount P1D,0.0,mm,God
 Bergen,SN50540,2022-04-24,mean,wind_speed P1D,2.7,m/s,God
 Bergen,SN50540,2022-04-25,mean,air_temperature P1D,9.2,degC,God
-Bergen,SN50540,2022-04-25,sum,precipitation_amount P1D,0.0,mm,
+Bergen,SN50540,2022-04-25,sum,precipitation_amount P1D,0.0,mm,God
 Bergen,SN50540,2022-04-25,mean,wind_speed P1D,2.4,m/s,God
 Bergen,SN50540,2022-04-26,mean,air_temperature P1D,9.8,degC,God
 Bergen,SN50540,2022-04-26,sum,precipitation_amount P1D,0.0,mm,God
@@ -1623,7 +1623,7 @@ Bergen,SN50540,2022-06-25,mean,air_temperature P1D,20.2,degC,God
 Bergen,SN50540,2022-06-25,sum,precipitation_amount P1D,5.9,mm,God
 Bergen,SN50540,2022-06-25,mean,wind_speed P1D,3.0,m/s,God
 Bergen,SN50540,2022-06-26,mean,air_temperature P1D,17.1,degC,God
-Bergen,SN50540,2022-06-26,sum,precipitation_amount P1D,0.0,mm,
+Bergen,SN50540,2022-06-26,sum,precipitation_amount P1D,0.0,mm,God
 Bergen,SN50540,2022-06-26,mean,wind_speed P1D,2.2,m/s,God
 Bergen,SN50540,2022-06-27,mean,air_temperature P1D,16.5,degC,God
 Bergen,SN50540,2022-06-27,sum,precipitation_amount P1D,9.3,mm,God
@@ -2379,7 +2379,7 @@ Trondheim,SN68230,2022-04-04,mean,air_temperature P1D,-1.0,degC,God
 Trondheim,SN68230,2022-04-04,sum,precipitation_amount P1D,6.0,mm,God
 Trondheim,SN68230,2022-04-05,mean,air_temperature P1D,-1.7,degC,God
 Trondheim,SN68230,2022-04-05,sum,precipitation_amount P1D,1.4,mm,God
-Trondheim,SN68230,2022-04-06,mean,air_temperature P1D,-1.1,degC,
+Trondheim,SN68230,2022-04-06,mean,air_temperature P1D,-1.1,degC,God
 Trondheim,SN68230,2022-04-06,sum,precipitation_amount P1D,7.2,mm,God
 Trondheim,SN68230,2022-04-07,mean,air_temperature P1D,-1.5,degC,God
 Trondheim,SN68230,2022-04-07,sum,precipitation_amount P1D,0.4,mm,God
