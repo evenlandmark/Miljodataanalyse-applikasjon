@@ -15,8 +15,7 @@ Målet er å utforme en predikativ analyse basert på historiske værdata fra ul
 
 
 # Utforsk applikasjonen 
-1. Klon repoet: 
-    ``` bash 
+1. Klon repoet:  
     git clone https://github.com/evenlandmark/Miljodataanalyse-applikasjon.git
 2. Innstaler nødvendige biblioteker og tilsvarende: 
     pip install -r requirements.txt
