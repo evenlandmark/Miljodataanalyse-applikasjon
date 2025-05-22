@@ -1,5 +1,10 @@
 import pandas as pd
-from src.data_behandling import DataBehandler
+import pytest
+import sys
+import os 
+# Legger til src-mappen i Python's søkesti
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../src')))
+from data_behandling import DataBehandler
 
 def test_fyll_manglende_codequality():
     # Eksempeldata med én manglende verdi
