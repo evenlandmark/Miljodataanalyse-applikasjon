@@ -5,7 +5,7 @@ Målet er å utforme en predikativ analyse basert på historiske værdata fra ul
 
 ## Prosjektet vårt inneholder flere ulike mapper: 
 - `data/`: Inneholder både rå og bearbeidede datafiler. Disse er hentet opprettet ved å hente data fra Frost API. 
-- `docs/`: 
+- `docs/`: Inneholder dokumenter for prosjektet. Her finner man ki-deklarasjon og refleksjonsnotat. 
 - `notebooks/`: Flere Jupyter Notebooks som tar for seg oppgavene i prosjektbeskrivelsen. Herunder gjøres det da datahenting, rensing, analyse og visualiseringer. 
 - `src/`: - Python-funskjoner som anvendes i notebooks. 
 - `tests/` - Tester som er laget for databehandlingsfunskjonene 
@@ -29,7 +29,6 @@ Kjør notebooksene i følgende rekkefølge:
 - `DataBehandling.ipynb`
 - `DataAnalyse.ipynb`
 - `PrediktivAnalyse.ipynb`
-- `Refleksjonsnotat.ipynb`
 (Det er også rekkefølgen på besvarelsene til prosjektbeskrivelsen)
 
 NB! Viktig at hver notebook kjøres fra toppen. Da noen koder bygger videre på ting som er gjort tidligere i notebooken. I tillegg benytter de ulike cellene seg av biblioteker og tilsvarende som er importert i starten av notebooken. 
