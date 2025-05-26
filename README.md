@@ -29,6 +29,7 @@ Kjør notebooksene i følgende rekkefølge:
 - `DataBehandling.ipynb`
 - `DataAnalyse.ipynb`
 - `PrediktivAnalyse.ipynb`
+- `Refleksjonsnotat.ipynb`
 (Det er også rekkefølgen på besvarelsene til prosjektbeskrivelsen)
 
 NB! Viktig at hver notebook kjøres fra toppen. Da noen koder bygger videre på ting som er gjort tidligere i notebooken. I tillegg benytter de ulike cellene seg av biblioteker og tilsvarende som er importert i starten av notebooken. 
@@ -42,5 +43,9 @@ Under prosjektet vårt har vi brukt Git for å holde oversikt over alle endringe
 - Besvarelse av oppgaver, funksjoner og forbedringer har blitt utviklet i egne branches (f.eks. `Utvikler1`) og senere blitt merget inn i `main` når de er komplette.
 - Vi har gitt alle commits beskrivende meldinger som forklarer hvilke endringer som er gjort.
 - Vi har brukt GitHub for lagring og samarbeid, og pushet jevnlig for å holde hverandres lokale repo oppdatert.
+
+
+
+NB. Dataen vi har benyttet oss av er hentet fra Met.no og deres API "Frost". Dette er brukt for skolearbeid. 
 
 
