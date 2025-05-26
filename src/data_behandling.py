@@ -66,7 +66,7 @@ class DataBehandler:
         # Fjerner tidspunkt og beholder kun dato
         self.df['referenceTime'] = pd.to_datetime(self.df['referenceTime']).dt.date
 
-        # Splitter 'elementId' inn i to separate kolonner: 'statistikk' og 'variable'
+        # Splitter elementId inn i to separate kolonner: 'statistikk' og 'variable'
         self.df[['statistikk', 'variable']] = self.df['elementId'].str.extract(r'(\w+)\(([^)]+)')
 
         # Mapper 'sourceId' til bynavn basert på byer-dictionary
