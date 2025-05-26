@@ -24,3 +24,9 @@ Notebooksene bruker funksjoner/metoder fra `src/` og lagrer data i mappen `data/
     Kodecellene fungerer i hovedsak på den måten at de henter definerte metoder/funksjoner, og bruker de for å hente, rense, visualisere og utføre analyser. 
     Markdowncellene fungerer som et supplement, hvor de både forklarer teori, og hvilke metoder som er benyttet. Samt at de kommenterer resultatene vi finner. 
     Vi har ved hjelp av markdown celler kommentert vurderingskriteriene utifra hva vi har gjort.
+
+
+## Kilder 
+- Met.no. (u.å.). *Python-eksempel for Frost API*. Hentet fra https://frost.met.no/python_example.html
+  Brukt som utgangspunkt for datahenting i `hente_data.ipynb` og `hente_data.py`. 
+ 

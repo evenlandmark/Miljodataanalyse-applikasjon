@@ -1,6 +1,7 @@
 import requests
 import time
-
+# Kilde:
+# Met.no. (u.å.). *Python-eksempel for Frost API*. Hentet fra https://frost.met.no/python_example.html
 def hent_data_fra_frost(endpoint, params, client_id, maks_forsøk=3, ventetid=2):
     """
     Henter data fra Frost API med støtte for flere forsøk og feilhåndtering.

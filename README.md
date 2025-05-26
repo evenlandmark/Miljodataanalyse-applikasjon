@@ -47,4 +47,12 @@ Under prosjektet vårt har vi brukt Git for å holde oversikt over alle endringe
 
 NB. Dataen vi har benyttet oss av er hentet fra Met.no og deres API "Frost". Dette er brukt for skolearbeid. 
 
+## Kilder 
 
+- Rouhani, M. (u.å.). *Introduksjon til datavitenskap (TDT4114)*. Hentet fra https://rouhani.folk.ntnu.no/textbooks/tdt4114/intro.html
+
+- Met.no. (u.å.). *Python-eksempel for Frost API*. Hentet fra https://frost.met.no/python_example.html
+
+    
+
+ 
