@@ -10,10 +10,10 @@ Notebooksfolderen vår består av fem ulike notebooks:
 - `DataAnalyse.ipynb` - Beregner statistiske data, implementering av enkle statistiske analyser for å undersøke sammenhengen mellom variabler og visualisering av dette. 
 Denne nootebooken er dermed et "svar" på oppgave 4 og 5 i prosjektbeskrivelsen. 
 - `DataBehandling.ipynb` - Utfører databehandling hvor vi renser data, gjør den mer lesbar og identifiserer "hull i dataen". I tillegg vises det hvordan ulike verktøy kan anvendes for å utføre diverse handlinger. Notebooken fungerer også som et svar på oppgave 3 i prosjektbeskrivelsen. 
-- `PrediktivAnalyse.ipynb` - 
+- `PrediktivAnalyse.ipynb` - Ved hjelp av metoder i predaktiv_analyse.py utfører vi en predaktiv analyse med lineær regresjon. 
 
 
-Notebooksene bruker funksjoner fra `src/` og lagrer data i mappen `data/`. 
+Notebooksene bruker funksjoner/metoder fra `src/` og lagrer data i mappen `data/`. 
 
 ## Hvordan kjøre notebookene
 1. Kjør notebookene fra toppen ved å trykke på "run all cells".
